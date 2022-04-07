@@ -1,0 +1,139 @@
+
+body{
+    background-image: url('/image/james-harrison-code.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.menu ul{
+    text-align: center;
+    list-style: none;
+    overflow: hidden;
+    font-family: "Gotic";
+    background-color: #000;
+}
+
+.menu ul li{
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.menu ul li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.text{
+    display: block;
+    font-size:  25px;
+    padding: 50px;
+    background-color: #fff;
+    padding-top: 12px;
+    margin-top: 10%;
+    opacity: 0.8;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.txt{
+    text-align: center;
+    font-family: "monospace";
+
+}
+
+.icons{
+    font-size: 130px;
+    margin-top: 300px;
+    text-align: center;
+    padding: 30px;
+}
+.txt-icon{
+    font-size: 25px;
+    color: #fff;
+    font-family: "fantasy sans-serif";
+}
+.fa-html5{
+    color: #ff4500;
+}
+.fa-css3{
+    color: #0000ff;
+}
+.fa-js{
+    color: #ffff00;
+}
+.fa-git-alt{
+    color:#ff4500;
+}
+.fa-python{
+    color: #fff;
+}
+
+.container{
+    background-color: #000;
+    opacity: 0.8;
+    display: flex;
+    margin-top: 75px;
+    margin: 0 auto;
+    font-size: 50px;
+    width: 40%;
+    height: 40%;
+    top: 50%;
+    left: 50%;
+    margin-top:200px;
+}
+
+.contact-container > div{
+    display: inline;
+    margin: 10px;
+    padding: 80px;
+
+}
+
+.contactTitle{
+    color: #ff0000;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+.fa-github{
+    color: #fff;
+}
+
+.fa-linkedin{
+    color: #0000ff;
+}
+
+.fa-at{
+    color: #00bfff;
+}
+
+.fa-at:hover{
+    color: #fff;
+}
+
+.fa-linkedin:hover{
+    color: #aaa;
+}
+
+.fa-github:hover{
+    color: #4b0082;
+}
+
+.text-center{
+    background-color: #fff;
+    margin:  auto;
+    margin: 98px;
+    height: 100;
+    font-size:30px;
+    opacity: 0.8;
+    padding:30px;
+}
